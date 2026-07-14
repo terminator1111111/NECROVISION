@@ -2,10 +2,10 @@
 
 A Python desktop application for cinematic sci-fi/horror image enhancement — somewhere between a VFX pipeline and a haunted machine. NECROVISION ingests still frames (including sealed HEIF/HEIC containers), resurrects them at 4× scale, and routes them through a rack of seven experimental enhancement modules to give ordinary footage the color science and texture of modern horror and sci-fi cinema.
 
-![Before](finacial.jpg)
+
 *Before: an ordinary storefront photo.*
 
-![After](financial%20dread.png)
+
 *After: the same frame with Necro Grade engaged — crushed luminance, sickly green-teal shadows, cold highlights.*
 
 ---
